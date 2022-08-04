@@ -15,3 +15,5 @@ Corresponding authors: Amaia Cipitria (amaia.cipitria@mpikg.mpg.de), Hubert M. T
 
 
 Please refer to the User's guide for using the application.
+
+It is recquired to have Image processing toolbox and Computer vision system installed on MATLAB.
