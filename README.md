@@ -1,6 +1,8 @@
 # FUCCItrack
 FUCCItrack: an all-in-one software for single cell tracking and cell cycle analysis
 
+https://dx.plos.org/10.1371/journal.pone.0268297 
+
 Hubert M. Taïeb1*, Luca Bertinetti1,2, Tom Robinson3, Amaia Cipitria1, 4, 5*
 
 1 Department of Biomaterials, Max Planck Institute of Colloids and Interfaces, 14476 Potsdam, Germany.
@@ -13,3 +15,5 @@ Corresponding authors: Amaia Cipitria (amaia.cipitria@mpikg.mpg.de), Hubert M. T
 
 
 Please refer to the User's guide for using the application.
+
+It is recquired to have Image processing toolbox and Computer vision system installed on MATLAB.
