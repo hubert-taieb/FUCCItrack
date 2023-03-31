@@ -17,3 +17,6 @@ Corresponding authors: Amaia Cipitria (amaia.cipitria@mpikg.mpg.de), Hubert M. T
 Please refer to the User's guide for using the application.
 
 It is recquired to have Image processing toolbox and Computer vision system installed on MATLAB.
+
+# 2023-03-31 Update
+New MATLAB application has been added: FUCCItrack2023_01_03.mlappinstall
