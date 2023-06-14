@@ -1,9 +1,18 @@
 # IMPORTANT
 Please read the updated manuel that is on the github repository and no the manual that was provided as supplementary material of the original manuscript.
+Recquired toolbox:
+1) Image processing toolbox 
+2) Computer vision system
+3) Parallel Computing
+
+# 2023-06-14 Update
+New MATLAB application has been added: FUCCItrack2023_01_05.mlappinstall
+1) Better file structures and small bug fixes.
 
 # 2023-05-26 Update
 New MATLAB application has been added: FUCCItrack2023_01_04.mlappinstall
-1) Add yellow cells counting in the collective counting tab
+1) Add yellow cell counting in the collective counting tab
+2) Add sensibility for the adaptive threshold of the collective counting tab
 
 # 2023-03-31 Update
 New MATLAB application has been added: FUCCItrack2023_01_03.mlappinstall
@@ -25,5 +34,3 @@ Corresponding authors: Amaia Cipitria (amaia.cipitria@mpikg.mpg.de), Hubert M. T
 
 
 Please refer to the User's guide for using the application.
-
-It is recquired to have Image processing toolbox and Computer vision system installed on MATLAB.
